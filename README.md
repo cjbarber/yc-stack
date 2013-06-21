@@ -1,4 +1,4 @@
-yc-stack
+The YC Stack for Starting a Startup that Runs on the Blood of YC Founders
 ========
 
 Starting a company? Take the YC stack challenge.
@@ -117,8 +117,10 @@ Achieve enterprise agility (oxymoronic?) with [Acunote](http://www.acunote.com/)
 ### Lastly.
 
 Building a startup is hard. I was amazed how many of Y Combinators companies were dead.
+
 So, in lieu of that:
 Generate a resume, and find a job with [JobSpice](http://www.jobspice.com/home) (S09).
+
 Don't have any skills after all of that? Hack for a few months at [Hacker School](https://www.hackerschool.com/) (S10).
 
 ## I'm actually building this out.
