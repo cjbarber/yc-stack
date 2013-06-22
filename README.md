@@ -244,12 +244,18 @@ Firstly - I wasn't in a very serious mood when I built this, hence some of the t
 
 ### My next steps.
 
+## Learn from the dead startups
+
 Interview the failed. [Sign up to tell me that you want to get these emails at some point in the future.](http://signup.deadpool.io/) (if you want to read the emails, you should sign up - I won't put them online straight away)
 
 I'm going to build this out.
 
-*Two things:*
+## Make a better listing
+
 * A proper, easier to navigate directory of services relevant to starting companies (not just YC)
+
+## Interview YC companies for super-short insights
+
 * Interviews with the companies on extremely short and actionable insights at a few different stages of startups (e.g. naming, incorporating, promoting via word of mouth, promoting on twitter, etc). No long form BS. Just actions and to-do items. 
 
-If either of those sound appealing, [find out when they come into existence](https://docs.google.com/forms/d/1-404EqBBW0GM_I2FbDZe2q9KYiNtjBulxQaXpLRMNzw/viewform).
+*If either of those sound appealing, [be the first to learn when this cool stuff comes into existence](https://docs.google.com/forms/d/1-404EqBBW0GM_I2FbDZe2q9KYiNtjBulxQaXpLRMNzw/viewform).*
